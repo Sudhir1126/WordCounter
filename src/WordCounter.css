@@ -1,0 +1,12 @@
+/* src/WordCounter.css */
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+    resize: none;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  
